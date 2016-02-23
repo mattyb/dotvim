@@ -49,9 +49,9 @@ NeoBundle 'Indent-Guides'
 " end certain structures automatically, e.g. begin/end etc.
 NeoBundle 'tpope/vim-endwise'
 " automatic closing of quotes, parenthesis, brackets, etc.
-NeoBundle 'Raimondi/delimitMate'
+" NeoBundle 'Raimondi/delimitMate'
 " calendar, duh!
-NeoBundle 'calendar.vim--Matsumoto'
+" NeoBundle 'calendar.vim--Matsumoto'
 " A Narrow Region Plugin (similar to Emacs)
 "NeoBundle 'chrisbra/NrrwRgn'
 " url based hyperlinks for text files
@@ -123,9 +123,9 @@ NeoBundle 'mxw/vim-jsx'
 
 " clojure
 "NeoBundle 'VimClojure'
-NeoBundle 'guns/vim-clojure-static'
-NeoBundle 'tpope/vim-fireplace'
-NeoBundle 'kien/rainbow_parentheses.vim'
+" NeoBundle 'guns/vim-clojure-static'
+" NeoBundle 'tpope/vim-fireplace'
+" NeoBundle 'kien/rainbow_parentheses.vim'
 
 " Support and minor
 
@@ -138,9 +138,9 @@ NeoBundle 'vitaly/vim-gitignore'
 " repeat motion with <Space>
 NeoBundle 'scrooloose/vim-space'
 " Github's gist support
-NeoBundle 'mattn/gist-vim'
+" NeoBundle 'mattn/gist-vim'
 " web APIs support
-NeoBundle 'mattn/webapi-vim'
+" NeoBundle 'mattn/webapi-vim'
 
 "NeoBundle 'ShowMarks'
 "NeoBundle 'tpope/vim-unimpaired'
